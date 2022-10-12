@@ -5,9 +5,8 @@ public class Fish extends Animal{
     private String habitat;
     private boolean hasGrills;
 
-    public String getHabitat() {
-        return habitat;
     }
+
 
     public void setHabitat(String habitat) {
         this.habitat = habitat;

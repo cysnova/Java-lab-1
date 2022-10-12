@@ -2,6 +2,7 @@ package com.example.animal;
 
 public class Eagle extends Birds {
 
+
     public void showInfo() {
         System.out.println("Height: " + this.getHeight());
         System.out.println("Weight: " + this.getWeight());
